@@ -103,23 +103,6 @@ homepage: [http://www.altibase.com](http://www.altibase.com/)
 
 -   샘플 코드 규칙
 
-##### 구문 다이어그램
-
-이 매뉴얼에서는 다음 구성 요소로 구축된 다이어그램을 사용하여, 명령문의 구문을
-설명한다.
-
-| 구성 요소                                   | 의미                                                         |
-| ------------------------------------------- | ------------------------------------------------------------ |
-| ![image1](media/altiShapeLoader/image1.gif) | 명령문이 시작한다. 완전한 명령문이 아닌 구문 요소는 화살표로 시작한다. |
-| ![image2](media/altiShapeLoader/image2.gif) | 명령문이 다음 라인에 계속된다. 완전한 명령문이 아닌 구문 요소는 이 기호로 종료한다. |
-| ![image3](media/altiShapeLoader/image3.gif) | 명령문이 이전 라인으로부터 계속된다. 완전한 명령문이 아닌 구문 요소는 이 기호로 시작한다. |
-| ![image4](media/altiShapeLoader/image4.gif) | 명령문이 종료한다.                                           |
-| ![](media/altiShapeLoader/image5.gif)       | 필수 항목                                                    |
-| ![](media/altiShapeLoader/image6.gif)       | 선택적 항목                                                  |
-| ![](media/altiShapeLoader/image7.gif)       | 선택사항이 있는 필수 항목. 한 항목만 제공해야 한다.          |
-| ![](media/altiShapeLoader/image8.gif)       | 선택사항이 있는 선택적 항목                                  |
-| ![](media/altiShapeLoader/image9.gif)       | 선택적 항목. 여러 항목이 허용된다. 각 반복 앞부분에 콤마가 와야 한다. |
-
 ##### 샘플 코드 규칙
 
 코드 예제는 SQL, Stored Procedure, iSQL 또는 다른 명령 라인 구문들을 예를 들어
